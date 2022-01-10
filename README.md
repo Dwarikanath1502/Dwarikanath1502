@@ -24,6 +24,7 @@
 ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 ![React Native](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+![Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)
 
 ## Stats:
 [![Dwarikanath's github stats](https://github-readme-stats.vercel.app/api?username=Dwarikanath1502)](https://github.com/Dwarikanath1502/github-readme-stats)
