@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwarikanath1502&label=Profile%20views&color=0e75b6&style=flat" alt="dwarikanath1502" /> </p>
 
-- 🔭 I’m currently working on **Mobile Apps**
+- 🔭 Currently working on **Mobile Apps**
 
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Anything, I'll happy to help or Learn...**
 
-- 📫 How to reach me **ddwarikanath15@gmail.com**
+- 📫 Reach me at **ddwarikanath15@gmail.com**
 
-- 💻 Current OS [Ubuntu](Ubuntu)
+- 💻 Current OS **Ubuntu**
 
-- ⚡ Fun fact **I love to ride Bikes and listen to Music**
+- ⚡ Fun fact **I love to ride Bikes and listen to Music** 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
