@@ -26,8 +26,7 @@
 ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
 
 ## Stats:
-https://github-readme-stats.vercel.app/username=Dwarikanath1502&theme=radical
-
+[![Dwarikanath's github stats](https://github-readme-stats.vercel.app/api?username=Dwarikanath1502)](https://github.com/Dwarikanath1502/github-readme-stats)
 ## Feedback
 
 If you have any feedback, please reach me out at ddwarikanath15@gmail.com
