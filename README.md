@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **Mobile Apps**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Currently learning **NextJs**
 
 - 💬 Ask me about **Anything, I'll happy to help or Learn...**
 
