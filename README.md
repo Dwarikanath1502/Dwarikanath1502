@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Next.js**
 - 
-- 💬 Reach out -- linktr.ee/dwarikanath
+- 💬 Reach out -- "linktr.ee/dwarikanath"
 
 - 💬 Ask me about **Anything, I'll happy to help or Learn...**
 
