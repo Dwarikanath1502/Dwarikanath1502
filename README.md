@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwarikanath1502&label=Profile%20views&color=0e75b6&style=flat" alt="dwarikanath1502" /> </p>
 
-- 🔭 Currently working on **Portfolio website**
+- 🔭 Currently working on **Mobile app development**
 
 - 🌱 Currently learning **DSA**
 
