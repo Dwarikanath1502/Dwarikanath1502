@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Dwarikanath</h1>
-<h3 align="center">I am Student, Learner and Developer</h3>
+<h3 align="center">I am Student, Learner, Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
