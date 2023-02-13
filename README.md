@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **Exam preparation  😇**
 
-- 🌱 Currently learning **Mobile App development**
+- 🌱 Currently learning **DSA**
 
 - 💬 Ask me about **Anything, I'll happy to help or Learn...**
 
