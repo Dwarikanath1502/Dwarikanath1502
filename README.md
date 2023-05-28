@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **ddwarikanath15@gmail.com**
    
-- 💻 Current OS **Ubuntu**
+- 💻 Current OS **Ubuntu** 
  
 - ⚡ Fun fact **I love to ride Bikes and listen to Music** 😁
 
