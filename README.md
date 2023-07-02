@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="401" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwarikanath1502&label=Profile%20views&color=0e75b6&style=flat" alt="dwarikanath1502" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwarikanath1502&label=Profile%20views&color=0e75b6&style=flat" alt="dwarikanath1502" /></p> 
 
 - 🔭 Currently working on **E-Commerce App 😇**
  
