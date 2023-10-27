@@ -15,7 +15,7 @@
    
 - 💻 Current OS **Ubuntu**      
     
-- ⚡ Fun fact **I love to ride Bikes and listen to Music** 😁.      
+- ⚡ Fun fact **I love to ride Bikes and listen to Music** 😁.    
        
 <h3 align="left">Connect with me:</h3> 
 <p align="left">    
